@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fagio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fagio\\.nuget\\packages"
+    ]
+  }
+}
