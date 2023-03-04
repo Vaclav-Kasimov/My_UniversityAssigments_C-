@@ -1,0 +1,14 @@
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.exe
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.deps.json
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.runtimeconfig.json
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.runtimeconfig.dev.json
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.dll
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\bin\Debug\netcoreapp3.1\LAB4_V3.pdb
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.csproj.AssemblyReference.cache
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.AssemblyInfoInputs.cache
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.AssemblyInfo.cs
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.csproj.CoreCompileInputs.cache
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.dll
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.pdb
+C:\Users\fagio\source\repos\LAB4_V3\LAB4_V3\obj\Debug\netcoreapp3.1\LAB4_V3.genruntimeconfig.cache
